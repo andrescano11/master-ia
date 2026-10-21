@@ -1,0 +1,14 @@
+# Archivo donde guardarás secretos (API keys de OpenAI, contraseñas).
+.env
+
+# Registros que generan los programas
+*.log
+
+# Archivo oculto que Windows crea en carpetas con imágenes
+Thumbs.db
+
+# Archivo oculto con la configuración visual de una carpeta en Windows
+desktop.ini
+
+# Configuración de Obsidian, si algún día abres esta carpeta con él
+.obsidian/
