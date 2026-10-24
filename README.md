@@ -26,3 +26,4 @@ Repositorio de mi ruta de aprendizaje en IA y automatización: proyectos reales 
 ## Autor
 [Andrés Cano](https://github.com/andrescano11)
 
+Sesión 6: los 3 estados de Git
